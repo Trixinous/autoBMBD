@@ -3,10 +3,10 @@
 
 
 I've tried my best to explain everything in config.ini, but all the links and handy stuff will be provided here.
-
 BM is chosen randomly between "." and ",", put a say bind on those to let the BM side of the script work.
 
 The bomb drop has an alias to go in "steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg". I'll assume you can find your steamapps folder.
+
 The alias is as follows:
 
 alias "+bomb" "slot3; slot5"
@@ -15,15 +15,13 @@ alias "-bomb" "drop;"
 
 bind "h" +bomb
 
-You can enable and disable Bad Mouthing with ctrl + alt + n.
+You can enable and disable Bad Mouthing with ctrl + alt + n. You can enable and disable Bomb Dropping with ctrl + alt + b.
 
-You can enable and disable Bomb Dropping with ctrl + alt + b.
-
-Python 3 is required to run the script. 
-
-You will need to install dependencies for the script to function.
+Python 3 is required to run the script. You will need to install dependencies for the script to function.
 
 Run the line below in CMD/Powershell to install all requirements:
+
+
 
 pip install pillow numpy opencv-python pynput keyboard colorama winsound
 
