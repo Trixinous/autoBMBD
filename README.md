@@ -33,12 +33,12 @@ This was my first real experience programming with python after abandoning vb.ne
 hence the chaotic nature and borderline insanity of the script.
 Modify the script as you see fit. Try and make sense of it. I dare you.
 
-#                                                           AUTOBMBD                                                             #
-#                                             IT MEANS AUTO BAD MANNERS & BOMB DROPS                                             #
-#                       ORIGINAL CODE BY COLOSSALTROLLER. MODIFIED MASSIVELY BY TRIXINOUS. PROVIDED AS IS.                       #
-#							                            VERSION NUMBER 45                           							 #
+                                                           AUTOBMBD                                                             
+                                             IT MEANS AUTO BAD MANNERS & BOMB DROPS                                             
+                       ORIGINAL CODE BY COLOSSALTROLLER. MODIFIED MASSIVELY BY TRIXINOUS. PROVIDED AS IS.                       
+							VERSION NUMBER 45                           							 
 
 										╱|、
-					  meow   (˚ˎ 。7  
+					  meow   			       (˚ˎ 。7  
 										|、˜〵          
 										じしˍ,)ノ
