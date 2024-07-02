@@ -10,14 +10,19 @@ The bomb drop has an alias to go in "steamapps\common\Counter-Strike Global Offe
 The alias is as follows:
 
 alias "+bomb" "slot3; slot5"
+
 alias "-bomb" "drop;"
+
 bind "h" +bomb
 
 You can enable and disable Bad Mouthing with ctrl + alt + n.
+
 You can enable and disable Bomb Dropping with ctrl + alt + b.
 
 Python 3 is required to run the script. 
+
 You will need to install dependencies for the script to function.
+
 Run the line below in CMD/Powershell to install all requirements:
 
 pip install pillow numpy opencv-python pynput keyboard colorama winsound
