@@ -1,5 +1,5 @@
 # autoBMBD
-non-invasive python script to make Counter-Strike more chaotic.
+#Non-invasive Python script to make Counter-Strike more chaotic.#
 
 
 I've tried my best to explain everything in config.ini, but all the links and handy stuff will be provided here.
