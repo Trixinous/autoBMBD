@@ -5,7 +5,7 @@
 I've tried my best to explain everything in config.ini, but all the links and handy stuff will be provided here.
 BM is chosen randomly between "." and ",", put a say bind on those to let the BM side of the script work.
 
-The bomb drop has an alias to go in "steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg". I'll assume you can find your steamapps folder. you can find the alias in readme.txt and config.ini.
+The bomb drop has an alias to go in "steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg". I'll assume you can find your steamapps folder. You can find the alias in readme.txt and config.ini.
 
 You can enable and disable Bad Mouthing with ctrl + alt + n. You can enable and disable Bomb Dropping with ctrl + alt + b.
 
